@@ -11,8 +11,8 @@ const Blogs = () => {
         .then(data => setBlogs(data))
     },[])
     return (
-        <div className="w-2/3">
-            <h3 className="text-black">Blogs</h3>
+        <div className="md:w-2/3">
+            <h3 className="text-black">Blog Lenth: {blogs.length}</h3>
             {/* {
               blogs.map(blog => )
             } */}
