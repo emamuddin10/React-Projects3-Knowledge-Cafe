@@ -11,8 +11,8 @@ const Blogs = () => {
         .then(data => setBlogs(data))
     },[])
     return (
-        <div className="">
-            {/* <h3 className="text-black">the blogs is connected</h3> */}
+        <div className="w-2/3">
+            <h3 className="text-black">Blogs</h3>
             {/* {
               blogs.map(blog => )
             } */}
