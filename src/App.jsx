@@ -8,10 +8,12 @@ function App() {
 
   return (
     <>
-      <Blogs></Blogs>
-      <Header></Header>
       
-     
+      <Header></Header>
+      <div>
+      <Blogs></Blogs>
+      
+      </div>
     </>
   )
 }

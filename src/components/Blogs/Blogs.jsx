@@ -11,11 +11,11 @@ const Blogs = () => {
         .then(data => setBlogs(data))
     },[])
     return (
-        <div className="bg-red-400">
-            <h3 className="text-black">the blogs is connected</h3>
-            {
+        <div className="">
+            {/* <h3 className="text-black">the blogs is connected</h3> */}
+            {/* {
               blogs.map(blog => )
-            }
+            } */}
         </div>
     );
 };
