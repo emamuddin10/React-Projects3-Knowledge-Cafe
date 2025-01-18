@@ -1,58 +1,64 @@
 [
-    {
-      "id": 1,
-      "title": "Exploring the Future of AI",
-      "cover": "https://example.com/images/ai_future.jpg",
-      "author": "John Doe",
-      "author_img": "https://ibb.co.com/zSWcMfc",
-      "posted": "Tech Blog",
-      "date": "2025-01-15",
-      "reading_time": 5,
-      "hashtags": ["#AI", "#Technology", "#Future"]
-    },
-    {
-      "id": 2,
-      "title": "10 Tips for Healthy Living",
-      "cover": "https://example.com/images/healthy_living.jpg",
-      "author": "Jane Smith",
-      "author_img": "https://example.com/images/authors/jane_smith.jpg",
-      "posted": "Health & Wellness",
-      "date": "2025-01-12",
-      "reading_time": 7,
-      "hashtags": ["#Health", "#Wellness", "#Lifestyle"]
-    },
-    {
-      "id": 3,
-      "title": "Mastering JavaScript in 2025",
-      "cover": "https://example.com/images/js_mastery.jpg",
-      "author": "Alice Johnson",
-      "author_img": "https://example.com/images/authors/alice_johnson.jpg",
-      "posted": "Code Academy",
-      "date": "2025-01-10",
-      "reading_time": 8,
-      "hashtags": ["#JavaScript", "#Coding", "#WebDevelopment"]
-    },
-    {
-      "id": 4,
-      "title": "Top 5 Travel Destinations",
-      "cover": "https://example.com/images/travel_destinations.jpg",
-      "author": "Mark Lee",
-      "author_img": "https://example.com/images/authors/mark_lee.jpg",
-      "posted": "Travel Diaries",
-      "date": "2025-01-08",
-      "reading_time": 6,
-      "hashtags": ["#Travel", "#Adventure", "#Destinations"]
-    },
-    {
-      "id": 5,
-      "title": "Understanding Cryptocurrency",
-      "cover": "https://example.com/images/crypto_guide.jpg",
-      "author": "Sarah Brown",
-      "author_img": "https://example.com/images/authors/sarah_brown.jpg",
-      "posted": "Finance Insights",
-      "date": "2025-01-05",
-      "reading_time": 10,
-      "hashtags": ["#Cryptocurrency", "#Finance", "#Investment"]
-    }
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/31DX4XP/8427817.jpg",
+    "title": "The dawn of creativity",
+    "author_img": "https://i.ibb.co/Sn7zB4q/gir12.jpg",
+    "author": "John Doe",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": 5,
+    "hashtags": [
+          "Creativity", 
+          "es6"
+     ]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/31DX4XP/8427817.jpg",
+    "title": "Mastering react.js in 30 days",
+    "author_img": "https://i.ibb.co/Sn7zB4q/gir12.jpg",
+    "author": "Jane Smith",
+    "posted_date": "Dec 30 (2 Days ago)",
+    "reading_time": 7,
+    "hashtags": [
+      "ReactJS", 
+      "Frontend"
   ]
-  
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/31DX4XP/8427817.jpg",
+    "title": "A guide to handmade crafts",
+    "author_img": "https://i.ibb.co/Sn7zB4q/gir12.jpg",
+    "author": "Alice Johnson",
+    "posted_date": "2024-12-30",
+    "reading_time": 6,
+    "hashtags": ["#Handmade", "#Crafts", "#DIY"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/31DX4XP/8427817.jpg",
+    "title": "Exploring the future of AI",
+    "author": "Michael Brown",
+    "author_img": "https://i.ibb.co/Sn7zB4q/gir12.jpg",
+    "posted_date": "Nov 10 (6 Days ago)",
+    "reading_time": 8,
+    "hashtags": [
+      "AI", 
+      "Technology"
+  ]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/31DX4XP/8427817.jpg",
+    "title": "Healthy skincare habits",
+    "author_img": "https://i.ibb.co/Sn7zB4q/gir12.jpg",
+    "author": "Emily Davis",
+    "posted_date":  "Jan 20 (1 Days ago)",
+    "reading_time": 4,
+    "hashtags": [
+      "Skincare", 
+      "Health"
+  ]
+  }
+]
